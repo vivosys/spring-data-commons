@@ -6,7 +6,7 @@
 	<name>Spring Data Commons Parent</name>
 	<description>Spring Data Commons Parent project</description>
 	<url>http://www.springsource.org/spring-data</url>
-	<version>1.2.1.RELEASE</version>
+	<version>1.2.2.BUILD-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	
 	<licenses>
@@ -199,7 +199,7 @@
 			<dependency>
 				<groupId>org.springframework.data</groupId>
 				<artifactId>spring-data-commons-core</artifactId>
-				<version>1.2.1.RELEASE</version>
+				<version>1.2.2.BUILD-SNAPSHOT</version>
 			</dependency>
 
 			<!-- Logging -->
